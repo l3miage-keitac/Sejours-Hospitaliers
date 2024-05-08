@@ -52,4 +52,3 @@ Le projet a été conçu pour une utilisation en ligne de commande et ne dispose
 #### Auteur :
 
 Ce projet a été développé par KEITA Ciré dans le cadre de ma formation universitaire.
-![image](https://github.com/l3miage-keitac/Sejours-Hospitaliers/assets/156134844/149c3330-d551-41c2-a0b7-b58cf7084001)
